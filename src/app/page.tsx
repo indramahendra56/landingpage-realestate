@@ -9,7 +9,7 @@ export default function Home() {
       me
     </Button>
     </div>
-    <Button>peyok</Button>
+    <Button>tes</Button>
     </main>
     
   );
